@@ -17,6 +17,12 @@ Hello I’m Pirman Abdurohman, knows as pimen. I’m Web Developer with strong p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/pimenvibritania/pimenvibritania/master/yii.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/pimenvibritania/pimenvibritania/master/cy.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/pimenvibritania/pimenvibritania/master/jira.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/pimenvibritania/pimenvibritania/master/docker.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/pimenvibritania/pimenvibritania/master/aws.png"></code>  
+
 
 | <a href="https://github.com/pimenvibritania"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pimenvibritania&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="pimenvibritania github stats" /></a> | <a href="https://github.com/pimenvibritania"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimenvibritania&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
