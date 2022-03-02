@@ -22,9 +22,10 @@ Hello I’m Pirman Abdurohman, knows as pimen. I’m Web Developer with strong p
 | ------------- | ------------- |
 
 **Work Experience:**  
+
 **2021 - 2022 | DOOgether ID** 
 - 
-Fulltime Backend Developer | DevOps Engineer | Scrum Master
+Full time | Backend Developer | DevOps Engineer | Scrum Master
 Jakarta, Indonesia
 	 
 DOOgether is the leading healthy lifestyle application in Indonesia that provides easy access and solutions for your healthy lifestyle. Find, book, order, and be healthier with your Healthy Life Friend.
@@ -34,3 +35,47 @@ My Responsibility:
 - Cloud Architect | DevOps Engineer, handling server and instances on AWS like EC2, amplify, lambda etc.
 - Serving the scrum team, grooming the issues, create a user story, and create a daily & weekly scrum report.
 
+**2021 | Kedutaan Besar Republik Indonesia** 
+- 
+Freelance | Full Stack PHP Developer
+Cairo, Egypt
+	 
+Kedutaan Besar Republik Indonesia in Cairo is a diplomatic representative of the Republic of Indonesia led by an ambassador extraordinary and plenipotentiary who reports to the president through the minister of foreign affairs with the area of accreditation of the Arab Republic of Egypt.
+
+My Responsibility: 
+- Developing Letter System for Indonesian College student and Indonesia citizen in Egypt.
+- Handle and maintaining server.
+
+**2021 | Viztech Company**
+- 
+Freelance | Full Stack PHP Developer
+Waterway Point, Singapore
+	 
+A Company of affordable and reliable digital solutions provider, know how IT, Web, Cloud and Mobile efficiency to help business forward.
+
+My Responsibility: 
+- Developing ERP System
+- Handle and maintaining server.
+
+**2019 - 2020 | MediaCT BV | YouWe Agency**
+- 
+Full time | Implementation Specialist | Software Engineer
+Groningen, Netherland
+	 
+Team MediaCT of YouWe Company os a team of reak e-commerce specialist. With 16 years experience in the e-commerce sector, know the ins and outs and happy to advise clients options and opportunities. Ready to help translate clients e-commerce ambitions into successful e-commerce platforms and integrations. 
+
+My Responsibility: 
+- Integrating data between ERP-system and e-commerce platform using Alumio platform
+- Build additional modules for Alumio based on Symfony.
+
+**2018 - 2019 | Billionaire Coach | Billionaire Store**
+- 
+Full time | Full Stack PHP Developer
+Bandung, Indonesia
+	 
+A Company enganged in of writing, printing and publishing of technical bussiness book.
+
+My Responsibility: 
+- Designing Landing pages for each events with Elementor & Divi
+- Developing Wordpress CMS sites.
+- Developing Human Resources System. 
