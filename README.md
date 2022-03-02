@@ -1,4 +1,5 @@
-I'm a self-taught passionate BackEnd developer from Indonesia 🇮🇩🇳
+
+Hello I’m Pirman Abdurohman, knows as pimen. I’m Web Developer with strong passion to learn new things. I’m  Farmiliar with REST API and few of PHP Frameworks like Laravel, Yii3, or Symfony, and currently I’m interesting and exploring about Container Orchestration & GOLANG. I enjoy with gaming on my spare time.
 
 **About me**
 
@@ -19,3 +20,17 @@ I'm a self-taught passionate BackEnd developer from Indonesia 🇮🇩🇳
 
 | <a href="https://github.com/pimenvibritania"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pimenvibritania&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="pimenvibritania github stats" /></a> | <a href="https://github.com/pimenvibritania"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimenvibritania&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+**Work Experience:**  
+**2021 - 2022 | DOOgether ID** 
+- 
+Fulltime Backend Developer | DevOps Engineer | Scrum Master
+Jakarta, Indonesia
+	 
+DOOgether is the leading healthy lifestyle application in Indonesia that provides easy access and solutions for your healthy lifestyle. Find, book, order, and be healthier with your Healthy Life Friend.
+
+My Responsibility: 
+- Developing REST Api to be consume for Mobile and Web Developer.
+- Cloud Architect | DevOps Engineer, handling server and instances on AWS like EC2, amplify, lambda etc.
+- Serving the scrum team, grooming the issues, create a user story, and create a daily & weekly scrum report.
+
