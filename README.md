@@ -24,7 +24,7 @@ Hello I’m Pirman Abdurohman, knows as pimen. I’m Web Developer with strong p
 <code><img height="20" src="https://raw.githubusercontent.com/pimenvibritania/pimenvibritania/master/aws.png"></code>  
 
 
-| <a href="https://github.com/pimenvibritania"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pimenvibritania&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="pimenvibritania github stats" /></a> | <a href="https://github.com/pimenvibritania"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimenvibritania&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/pimenvibritania"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pimenvibritania&show_icons=true&theme=buefy&hide_border=true" alt="pimenvibritania github stats" /></a> | <a href="https://github.com/pimenvibritania"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimenvibritania&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 **Work Experience:**  
