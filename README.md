@@ -1,5 +1,5 @@
 
-Hello I’m Pirman Abdurohman, knows as pimen. I’m Web Developer with strong passion to learn new things. I’m  Farmiliar with REST API and few of PHP Frameworks like Laravel, Yii3, or Symfony, and currently I’m interesting and exploring about Container Orchestration & GOLANG. I enjoy with gaming on my spare time.
+Hello I’m Pirman Abdurohman, knows as pimen. I’m Web Developer with strong passion to learn new things. I’m  Farmiliar with REST API and few of PHP Frameworks like Laravel, Yii3, or Symfony, and currently I’m interesting and exploring about Container Orchestration, Java & GOLANG. I enjoy with gaming on my spare time.
 
 **About me**
 
