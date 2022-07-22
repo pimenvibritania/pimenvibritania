@@ -12,7 +12,8 @@ I have worked as a software engineer specifically as a backend developer for 3 y
 - 💬 Ask me about anything [here](https://github.com/pimenvibritania/pimenvibritania/issues)
 
 **Curriculum Vitae**
-My CV => [UrbanCV](https://urbancv.com/share-cv/pirman/XywCKZx)
+
+- My CV => [UrbanCV](https://urbancv.com/share-cv/pirman/XywCKZx)
 
 **Languages and Tools:**  
 
