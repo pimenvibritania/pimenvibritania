@@ -1,5 +1,7 @@
 
-Hello I’m Pirman Abdurohman, knows as pimen. I’m Web Developer with strong passion to learn new things. I’m  Farmiliar with REST API and few of PHP Frameworks like Laravel, Yii3, or Symfony, and currently I’m interesting and exploring about Container Orchestration, Java & GOLANG. I enjoy with gaming on my spare time.
+*Hello*, I'm Pirman Abduroman, you can call me Pimen.
+
+I have worked as a software engineer specifically as a backend developer for 3 years. I’m skilled with PHP for developing REST API or MVC software and usually using PHP Framework such as Yii3, Laravel, or Lumen. I also familiar with UNIX-based systems as my daily machine and able to handle server cloud especially on aws like ec2, amplify, lambda et cetera or create CI/CD configuration for integration purpose, and currently I’m interesting and exploring about Web3, Decentralised Application & Go and I enjoy with gaming on my spare time.
 
 **About me**
 
@@ -28,6 +30,19 @@ Hello I’m Pirman Abdurohman, knows as pimen. I’m Web Developer with strong p
 | ------------- | ------------- |
 
 **Work Experience:**  
+
+**2022 | DOOgether ID** 
+- 
+Part time | Backend Developer
+Jakarta, Indonesia
+	 
+PT Solusi Teknologi Ampuh (STEAM) is a private company engaged in the field of Information Technology and Services in Indonesia.
+
+My Responsibility: 
+- Developing chat feature for SANTARA Equity Crowdfunding Platform using Laravel (PHP)
+- Maintain SANTARA Web Apps
+- Migrating SANTARA API from Laravel into AdonisJs (NodeJS)
+
 
 **2021 - 2022 | DOOgether ID** 
 - 
