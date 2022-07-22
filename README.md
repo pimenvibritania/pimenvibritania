@@ -33,7 +33,7 @@ I have worked as a software engineer specifically as a backend developer for 3 y
 
 **Work Experience:**  
 
-**2022 | DOOgether ID** 
+**2022 | STEAM** 
 - 
 Part time | Backend Developer
 Jakarta, Indonesia
