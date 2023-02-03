@@ -20,6 +20,13 @@ I have worked as a software engineer specifically as a backend developer for 3 y
 
 **Work Experience:**  
 
+
+**2022 - Current | MOLADIN** 
+- 
+Full time | Backend Infrastructure Engineer
+Jakarta, Indonesia
+
+
 **2022 | STEAM** 
 - 
 Part time | Backend Developer
