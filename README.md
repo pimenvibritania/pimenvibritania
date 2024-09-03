@@ -7,7 +7,7 @@ I have worked as a software engineer specifically as a backend developer for 3 y
 
 - 💼 BackEnd Infrastructure Engineer at Moladin
 
-- ❤️ I love writing PHP, and building fun experiments on type-level
+- ❤️ I love writing Python & PHP, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/pimenvibritania/pimenvibritania/issues)
 
@@ -23,7 +23,7 @@ I have worked as a software engineer specifically as a backend developer for 3 y
 
 **2022 - Current | MOLADIN** 
 - 
-Full time | Backend Infrastructure Engineer
+Full time | Senior Backend Infrastructure Engineer
 Jakarta, Indonesia
 
 
