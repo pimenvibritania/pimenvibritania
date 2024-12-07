@@ -13,7 +13,7 @@ I have worked as a software engineer specifically as a backend developer for 3 y
 
 **Curriculum Vitae**
 
-- [CV](https://urbancv.com/share-cv/pirman/Z1kc0Qg)
+- [CV](https://drive.google.com/file/d/1ou8TaiYMPboZ5_8UUeBC_0_6SXlS94MB/view?usp=sharing)
 
 | <a href="https://github.com/pimenvibritania"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pimenvibritania&show_icons=true&theme=buefy&hide_border=true" alt="pimenvibritania github stats" /></a> | <a href="https://github.com/pimenvibritania"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimenvibritania&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
