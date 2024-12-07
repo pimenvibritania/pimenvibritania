@@ -30,6 +30,7 @@ Jakarta, Indonesia
 Full time | Senior Backend Infrastructure Engineer
 Jakarta, Indonesia
 
+As a Senior Backend Infrastructure Engineer, I specialize in designing and building scalable, high-performance systems that power modern applications. With deep expertise in cloud-native technologies, distributed systems, and database optimization, I excel in crafting resilient backend solutions that meet enterprise-scale demands.
 
 **2022 | STEAM** 
 - 
