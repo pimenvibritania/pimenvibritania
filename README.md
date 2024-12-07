@@ -25,6 +25,8 @@ I have worked as a software engineer specifically as a backend developer for 3 y
 Full time | DevOps Engineer
 Jakarta, Indonesia
 
+As a DevOps Engineer, I specialize in building efficient, automated workflows that streamline the software development lifecycle. I am passionate about integrating robust CI/CD pipelines and deploying applications that are scalable, secure, and reliable.
+
 **2022 - 2024 | Moladin** 
 - 
 Full time | Senior Backend Infrastructure Engineer
