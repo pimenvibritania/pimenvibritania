@@ -5,7 +5,7 @@ I have worked as a software engineer specifically as a backend developer for 3 y
 
 **About me**
 
-- 💼 BackEnd Infrastructure Engineer at Moladin
+- 💼 Software Engineer
 
 - ❤️ I love writing Python & PHP, and building fun experiments on type-level
 
@@ -20,8 +20,12 @@ I have worked as a software engineer specifically as a backend developer for 3 y
 
 **Work Experience:**  
 
+**2024 - Current | Mekari** 
+- 
+Full time | DevOps Engineer
+Jakarta, Indonesia
 
-**2022 - Current | MOLADIN** 
+**2022 - 2024 | Moladin** 
 - 
 Full time | Senior Backend Infrastructure Engineer
 Jakarta, Indonesia
